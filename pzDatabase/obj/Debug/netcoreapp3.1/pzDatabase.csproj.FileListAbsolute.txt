@@ -1,0 +1,12 @@
+C:\Users\Flor\source\repos\tp\pzDatabase\bin\Debug\netcoreapp3.1\pzDatabase.deps.json
+C:\Users\Flor\source\repos\tp\pzDatabase\bin\Debug\netcoreapp3.1\pzDatabase.runtimeconfig.json
+C:\Users\Flor\source\repos\tp\pzDatabase\bin\Debug\netcoreapp3.1\pzDatabase.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\tp\pzDatabase\bin\Debug\netcoreapp3.1\pzDatabase.dll
+C:\Users\Flor\source\repos\tp\pzDatabase\bin\Debug\netcoreapp3.1\pzDatabase.pdb
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.AssemblyInfo.cs
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.dll
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.pdb
+C:\Users\Flor\source\repos\tp\pzDatabase\obj\Debug\netcoreapp3.1\pzDatabase.genruntimeconfig.cache

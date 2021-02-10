@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Flor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Flor\\.nuget\\packages"
+    ]
+  }
+}
